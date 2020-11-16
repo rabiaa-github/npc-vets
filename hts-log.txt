@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Nov 2020 22:21:56 at https://npcvet.wordpress.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://npcvet.wordpress.com -O1 "C:\My Web Sites\vet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:27:15	Warning: 	Found for https://npcvet.wordpress.com/about/?share=twitter
+22:27:15	Warning: 	File has moved from https://npcvet.wordpress.com/about/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=About%20Us&url=https%3A%2F%2Fnpcvet.wordpress.com%2Fabout%2F
+22:27:29	Warning: 	Found for https://npcvet.wordpress.com/about/?share=facebook
+22:27:29	Warning: 	File has moved from https://npcvet.wordpress.com/about/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnpcvet.wordpress.com%2Fabout%2F&t=About%20Us
+22:28:07	Warning: 	Found for https://npcvet.wordpress.com/our-services/?share=twitter
+22:28:07	Warning: 	File has moved from https://npcvet.wordpress.com/our-services/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Our%20services&url=https%3A%2F%2Fnpcvet.wordpress.com%2Four-services%2F
+22:28:21	Warning: 	Found for https://npcvet.wordpress.com/our-services/?share=facebook
+22:28:21	Warning: 	File has moved from https://npcvet.wordpress.com/our-services/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnpcvet.wordpress.com%2Four-services%2F&t=Our%20services
+22:28:33	Warning: 	Found for https://npcvet.wordpress.com/contact-us/?share=twitter
+22:28:33	Warning: 	File has moved from https://npcvet.wordpress.com/contact-us/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Contact%20Us&url=https%3A%2F%2Fnpcvet.wordpress.com%2Fcontact-us%2F
+22:28:57	Warning: 	Found for https://npcvet.wordpress.com/contact-us/?share=facebook
+22:28:57	Warning: 	File has moved from https://npcvet.wordpress.com/contact-us/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnpcvet.wordpress.com%2Fcontact-us%2F&t=Contact%20Us
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 6 seconds : 54 links scanned, 44 files written (1868497 bytes overall), 32 files updated [405327 bytes received at 951 bytes/sec], 1367662 bytes transferred using HTTP compression in 32 files, ratio 28%, 1.0 requests per connection
+(No errors, 12 warnings, 0 messages)
